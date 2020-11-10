@@ -1,9 +1,9 @@
 первое изменение
 
 Second change, that I have made
-
+И еще один
 Third change, it looks very silly
-
+Change посреди кода для проверки слияния
 fourth change lol/
 
 Fifth
